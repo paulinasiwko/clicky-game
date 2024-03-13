@@ -1,0 +1,26 @@
+
+nav {
+    background-color: rgb(35, 138, 10);
+    min-height: 70px;
+    position: fixed !important;
+    width: 100%;
+    z-index: 99;
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 20px 0 10px 0;
+    width: 33.3%;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.correct-guess {
+    -webkit-text-stroke: 1px rgb(0, 255, 0);
+}
+
+.incorrect-guess {
+    -webkit-text-stroke: 1px rgb(238, 42, 42);
+}

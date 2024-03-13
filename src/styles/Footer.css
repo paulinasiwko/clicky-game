@@ -1,0 +1,14 @@
+.footer {
+    background-color: rgb(35, 138, 10);
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+h6 {
+    margin: 0;
+}
+
+a {
+    color: white !important;
+}
