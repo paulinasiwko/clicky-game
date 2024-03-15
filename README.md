@@ -1,6 +1,7 @@
 # clicky-game
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e8687fca-03e9-4b03-91de-462e39f21353/deploy-status)](https://app.netlify.com/sites/clicky-game-mario/deploys)
+![GitHub top language](https://img.shields.io/github/languages/top/paulinasiwko/clicky-game)
 
 ## Overview
 
