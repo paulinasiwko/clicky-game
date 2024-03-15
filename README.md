@@ -15,7 +15,9 @@ The Clicky Game is a React application designed to test and enhance memory skill
 
 ![A screenshot of the deployed application](./src/assets/img/clicky-game.JPG)
 
-The [URL](...) of deployed application.
+The [URL](https://clicky-game-mario.netlify.app/) of deployed application.
+
+The application was deployed using Netlify.
 
 ## Features
 
