@@ -1,5 +1,7 @@
 # clicky-game
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e8687fca-03e9-4b03-91de-462e39f21353/deploy-status)](https://app.netlify.com/sites/clicky-game-mario/deploys)
+
 ## Overview
 
 The Clicky Game is a React application designed to test and enhance memory skills. Users are presented with a grid of images, and their objective is to click on each image only once. The game keeps track of the user's score and shuffles the images after every click. This project focuses on building a memory game using React components, managing component state, and handling user events.
