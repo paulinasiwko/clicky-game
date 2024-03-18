@@ -11,6 +11,11 @@ export default function CardsGallery({setScore, score, setGameStatus}) {
         const index = image.index;
         const newCardStatus = [...cardStatus];
 
+        if (score === 72) {
+            setGameStatus('You won!');
+            return;
+        }
+
         if (newCardStatus[index] === false) {
             newCardStatus[index] = true;
             setCardStatus(newCardStatus);
