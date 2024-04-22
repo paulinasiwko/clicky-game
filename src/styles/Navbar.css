@@ -18,9 +18,9 @@ nav {
 }
 
 .correct-guess {
-    -webkit-text-stroke: 1px rgb(0, 255, 0);
+    color: rgb(0, 255, 0);
 }
 
 .incorrect-guess {
-    -webkit-text-stroke: 1px rgb(238, 42, 42);
+    color: rgb(238, 42, 42);
 }
